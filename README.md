@@ -2,7 +2,7 @@
 Desafio 01 proposto pelo Ignite, bootcamp da Rocketseat
 
  # :wrench: Sobre o Projeto
- Uma simples lista de To-do, onde você pode criar tarefas, marcá-las como conclúidas e remove-las.
+ Uma simples lista de To-do, onde você pode criar tarefas, marcá-las como concluídas e removê-las.
  
   <img alt="example-app" title="Example app" src="https://im2.ezgif.com/tmp/ezgif-2-35568e658b62.gif" />
   
